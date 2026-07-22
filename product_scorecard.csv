@@ -1,0 +1,36 @@
+product_family,users,visits,pageviews,first_product_visits,last_product_exits,intent_after,product,last_product_exit_rate,intent_after_rate,intent_confidence
+armor-chain-bag-black,758,802,848,750.0,645.0,4,Armor Chain Bag Black,0.8042394014962594,0.004987531172069825,Недостаточно данных
+shopper-bag-black,623,696,733,649.0,527.0,7,Shopper Bag black,0.757183908045977,0.010057471264367816,Недостаточно данных
+baguette-shoulder-bag-black,626,674,697,642.0,569.0,12,Baguette Shoulder Bag black,0.844213649851632,0.017804154302670624,Недостаточно данных
+baguette-shoulder-bag-red,557,596,607,581.0,505.0,2,Baguette Shoulder Bag red,0.8473154362416108,0.003355704697986577,Недостаточно данных
+shopper-bag-grey,406,427,436,407.0,346.0,8,Shopper Bag grey,0.810304449648712,0.01873536299765808,Недостаточно данных
+baguette-shoulder-bag-bronze,392,416,426,382.0,327.0,3,Baguette Shoulder Bag bronze,0.7860576923076923,0.007211538461538462,Недостаточно данных
+shopper-bag-black-with-leopard-print,355,400,417,373.0,303.0,2,Shopper Bag black with leopard print,0.7575,0.005,Недостаточно данных
+shopper-bag-camel,148,159,165,141.0,125.0,1,Shopper Bag camel,0.7861635220125787,0.006289308176100629,Недостаточно данных
+tote-bag-black,142,156,162,142.0,107.0,0,Tote Bag black,0.6858974358974359,0.0,Недостаточно данных
+shopper-bag-coffee,148,153,158,133.0,110.0,4,Shopper Bag coffee,0.7189542483660131,0.026143790849673203,Недостаточно данных
+mini-shopper-bag-white,136,146,162,137.0,103.0,0,Mini Shopper Bag white,0.7054794520547946,0.0,Недостаточно данных
+shopper-bag-gradient,124,131,131,119.0,98.0,3,Shopper Bag gradient,0.7480916030534351,0.022900763358778626,Недостаточно данных
+shopper-bag-burgundy,115,125,129,108.0,93.0,1,Shopper Bag burgundy,0.744,0.008,Недостаточно данных
+tote-bag-white,106,121,139,104.0,89.0,1,Tote Bag white,0.7355371900826446,0.008264462809917356,Недостаточно данных
+small-crossbody-bag-copy-copy-copy,115,121,127,108.0,86.0,0,Mini Shopper Bag burgundy,0.7107438016528925,0.0,Недостаточно данных
+shopper-bag-leopard-print,114,121,127,101.0,92.0,0,Shopper Bag leopard print,0.7603305785123967,0.0,Недостаточно данных
+small-crossbody-bag-with-a-chain-strap,78,90,94,81.0,65.0,1,Mini Shopper Bag black,0.7222222222222222,0.011111111111111112,Недостаточно данных
+shopper-bag-white,84,86,89,76.0,65.0,1,Shopper Bag white,0.7558139534883721,0.011627906976744186,Недостаточно данных
+small-crossbody-bag-with-a-chain-strap3,77,78,80,70.0,62.0,2,Mini Shopper Bag orange,0.7948717948717948,0.02564102564102564,Недостаточно данных
+shopper-bag-beige,64,67,77,60.0,51.0,1,Shopper Bag beige,0.7611940298507462,0.014925373134328358,Недостаточно данных
+small-crossbody-bag,57,67,75,63.0,46.0,7,Shopper Bag black,0.6865671641791045,0.1044776119402985,Недостаточно данных
+large-shopper-bag,54,59,65,55.0,44.0,2,Shopper Bag burgundy,0.7457627118644068,0.03389830508474576,Недостаточно данных
+small-crossbody-bag-copy-copy,48,53,55,48.0,34.0,0,Mini Shopper Bag camel,0.6415094339622641,0.0,Недостаточно данных
+large-leather-shopper-bag,47,48,49,45.0,40.0,1,Shopper Bag black with leopard print,0.8333333333333334,0.020833333333333332,Недостаточно данных
+bag_mini_20,27,29,30,24.0,20.0,1,Armor Chain Bag Black,0.6896551724137931,0.034482758620689655,Недостаточно данных
+large-leather-shopper-bag-1,22,22,24,17.0,17.0,0,Shopper Bag eggplant,0.7727272727272727,0.0,Недостаточно данных
+small-crossbody-bag-copy-copy-copy-copy,16,19,19,15.0,16.0,1,Mini Shopper Bag white,0.8421052631578947,0.05263157894736842,Недостаточно данных
+large-leather-shopper-bag-2,17,17,17,16.0,13.0,0,Shopper Bag leopard print,0.7647058823529411,0.0,Недостаточно данных
+mini-shopper-bag-black,13,16,17,14.0,11.0,0,Mini Shopper Bag black,0.6875,0.0,Недостаточно данных
+baguette,14,15,15,14.0,13.0,1,Baguette Shoulder Bag black,0.8666666666666667,0.06666666666666667,Недостаточно данных
+mini-shopper-bag-orange,9,12,12,8.0,7.0,0,Mini Shopper Bag orange,0.5833333333333334,0.0,Недостаточно данных
+tote-bag-beig,8,10,10,6.0,6.0,0,Tote Bag beige,0.6,0.0,Недостаточно данных
+large-shoulder-bag,9,9,9,5.0,7.0,0,Tote Bag white,0.7777777777777778,0.0,Недостаточно данных
+mini-shopper-bag-camel,5,7,8,4.0,3.0,0,Mini Shopper Bag camel,0.42857142857142855,0.0,Недостаточно данных
+shopper-bag-eggplant,2,2,2,2.0,1.0,0,Shopper Bag eggplant,0.5,0.0,Недостаточно данных

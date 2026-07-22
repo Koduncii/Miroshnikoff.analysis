@@ -1,0 +1,15 @@
+{
+  "generated_at": "22.07.2026 23:55, ОАЭ",
+  "hits_file": "/mnt/data/hits_full.csv",
+  "visits_file": "/mnt/data/visits_full.csv",
+  "hits_sha256": "076d7fbeaf2689d8608f6e9db33e13dd48fc54888a94ebbd7a94cb355bcf7e24",
+  "visits_sha256": "d6c7fef573be3e65633dbddd1e261195f90d7f7085ceddfafa1b70b5720e036d",
+  "raw_hits": 220075,
+  "raw_visits": 58002,
+  "deduplicated_pageviews": 76497,
+  "attributable_visits": 58002,
+  "users": 45340,
+  "purchase_events": 0,
+  "timezone": "Asia/Dubai (UTC+4)",
+  "builder_version": "0.2.0-ru"
+}

@@ -1,0 +1,421 @@
+route,visits
+catalog,50691
+product,2175
+catalog → product,1714
+home,1195
+catalog → product → catalog,342
+home → product,215
+cart,205
+home → catalog → product,176
+home → catalog,167
+catalog → product → catalog → product,105
+product → catalog,90
+catalog → one_click,74
+catalog → cart,64
+home → instagram,62
+service,51
+product → catalog → product,41
+home → product → home,41
+catalog → product → catalog → product → catalog,33
+home → catalog → home,33
+catalog → home,30
+home → service,25
+404,24
+catalog → product → catalog → product → catalog → product,22
+other,21
+home → catalog → product → home,20
+one_click,19
+catalog → service,18
+home → catalog → product → catalog → product,17
+catalog → other,17
+cart → catalog,16
+product → other,16
+catalog → cart → catalog,15
+home → catalog → product → catalog,12
+home → product → home → product,12
+catalog → one_click → catalog,11
+catalog → home → catalog,11
+home → catalog → product → catalog → home,11
+catalog → product → instagram,10
+catalog → product → catalog → product → catalog → product → catalog,9
+product → home,8
+catalog → product → home,8
+catalog → instagram,8
+catalog → shopify_external,8
+catalog → product → service,7
+catalog → product → other,7
+home → catalog → home → catalog → product,7
+product → instagram,6
+home → other,6
+home → catalog → home → catalog,6
+home → instagram → home,6
+product → service,6
+product → noon,6
+cart → product,5
+home → service → catalog → product,5
+home → product → home → product → home,5
+catalog → product → whatsapp,5
+home → catalog → service,5
+catalog → product → catalog → product → catalog → product → catalog → product → …,5
+product → catalog → product → catalog,5
+catalog → other → catalog,4
+catalog → 404,4
+home → product → catalog,4
+product → home → product,4
+home → product → instagram,4
+product → catalog → product → catalog → product,4
+home → service → catalog,4
+product → home → catalog → product,4
+catalog → shopify_external → catalog,4
+home → instagram → catalog → product,4
+catalog → service → catalog,4
+service → catalog → product,3
+catalog → product → home → catalog → product,3
+404 → catalog,3
+catalog → product → other → catalog,3
+home → catalog → product → instagram,3
+catalog → product → catalog → home,3
+home → catalog → home → catalog → home,3
+product → home → catalog,3
+catalog → home → product → catalog,3
+catalog → product → one_click,3
+home → instagram → product,3
+thank_you,3
+home → catalog → product → noon,3
+home → catalog → product → home → catalog,3
+home → product → home → catalog → product,3
+catalog → home → product,3
+home → product → catalog → product,3
+catalog → product → catalog → one_click,3
+home → catalog → product → service → catalog,3
+home → catalog → product → home → product,2
+catalog → product → add_to_cart → catalog → product,2
+catalog → product → service → catalog → product,2
+home → catalog → product → catalog → product → catalog,2
+home → service → home,2
+home → instagram → home → instagram,2
+catalog → add_to_cart,2
+home → product → home → product → home → product → home → product → …,2
+home → catalog → product → home → catalog → product,2
+catalog → product → home → instagram,2
+home → product → instagram → catalog → product,2
+product → 404,2
+catalog → product → catalog → product → home → catalog → product,2
+product → one_click,2
+home → instagram → home → catalog → product → home,2
+instagram → home → instagram → home → instagram → home → instagram → home → …,2
+catalog → product → shopify_external,2
+catalog → product → whatsapp → instagram,2
+home → catalog → product → catalog → product → catalog → product → catalog → …,2
+product → catalog → product → catalog → product → catalog → product → catalog → …,2
+product → catalog → product → instagram,2
+catalog → product → home → product,2
+catalog → product → home → catalog,2
+catalog → service → catalog → product → catalog,2
+catalog → home → catalog → product → catalog,2
+home → instagram → catalog,2
+home → instagram → product → home,2
+catalog → product → instagram → product,2
+catalog → product → catalog → product → catalog → product → catalog → product,2
+product → whatsapp,2
+home → catalog → service → other,2
+catalog → product → catalog → one_click → catalog,2
+catalog → product → other → catalog → product,2
+catalog → one_click → catalog → product,2
+home → catalog → service → home,2
+product → shopify_external,2
+home → catalog → product → catalog → product → home,2
+service → product,2
+catalog → whatsapp,2
+catalog → product → other → product → catalog,2
+home → catalog → product → service → catalog → product,2
+catalog → product → noon,2
+home → product → home → product → home → product,1
+home → catalog → product → home → product → instagram → product,1
+catalog → product → other → catalog → service → whatsapp,1
+product → instagram → product,1
+home → product → home → product → home → product → home → product,1
+home → catalog → product → other → product → catalog → product → catalog,1
+home → product → home → catalog,1
+home → product → instagram → service,1
+home → instagram → home → product,1
+other → catalog,1
+home → catalog → product → catalog → service → other → home,1
+home → product → cart → catalog → product → catalog → product → home,1
+home → catalog → product → noon → product → catalog,1
+instagram → home → instagram → home,1
+home → product → service → product → catalog,1
+home → catalog → product → home → service → home → product → catalog → …,1
+home → catalog → home → product,1
+home → catalog → product → home → catalog → home,1
+service → catalog → service → home,1
+home → add_to_cart → home,1
+home → catalog → one_click → thank_you → catalog → product → add_to_cart,1
+home → instagram → home → instagram → home,1
+catalog → product → catalog → home → product,1
+home → catalog → service → instagram,1
+home → catalog → product → service → instagram → catalog → home → catalog,1
+product → catalog → product → catalog → product → other → product → catalog → …,1
+product → other → product → noon → product,1
+home → catalog → product → service → other → catalog → other → service → …,1
+service → home,1
+home → product → one_click,1
+catalog → product → service → thank_you,1
+home → service → catalog → home,1
+product → service → catalog,1
+home → 404,1
+catalog → instagram → catalog,1
+product → one_click → product → home,1
+home → catalog → product → other → product → other,1
+home → product → service → product → home → service → catalog → product,1
+home → service → home → catalog → home → product,1
+catalog → product → catalog → product → catalog → product → whatsapp → product,1
+catalog → home → catalog → home → service,1
+home → catalog → product → service → product → catalog,1
+home → catalog → home → catalog → home → catalog,1
+product → catalog → home → catalog → service → other → instagram → whatsapp,1
+other → service → catalog → product,1
+product → shopify_external → product → home → catalog → product → home → catalog → …,1
+other → whatsapp → home → other → whatsapp → catalog,1
+home → service → home → product → home,1
+home → add_to_cart → one_click,1
+service → other → catalog → product → service → home,1
+home → product → home → catalog → product → catalog → home,1
+catalog → one_click → thank_you,1
+home → other → catalog → service → thank_you → home → service → thank_you → …,1
+home → service → thank_you → home → other → home,1
+service → product → service → catalog → product,1
+service → thank_you,1
+home → service → home → service,1
+home → instagram → catalog → product → home → catalog → product,1
+catalog → product → catalog → product → catalog → product → home → catalog → …,1
+home → catalog → product → noon → home,1
+home → instagram → home → instagram → home → instagram → home → instagram → …,1
+product → catalog → home → instagram → home → catalog → home → catalog → …,1
+home → instagram → home → instagram → home → instagram,1
+other → service → thank_you → service → one_click,1
+service → other,1
+home → product → home → instagram → home → catalog → product → home,1
+home → service → other → home,1
+home → catalog → product → catalog → product → catalog → home,1
+home → catalog → product → home → catalog → product → home → service,1
+catalog → service → catalog → product → catalog → product,1
+catalog → one_click → other → product → home → product,1
+catalog → product → catalog → service → catalog → product,1
+home → instagram → catalog → product → catalog → home,1
+home → product → catalog → product → home,1
+product → service → product,1
+home → catalog → product → service,1
+home → product → other,1
+catalog → other → catalog → other → catalog → other → catalog,1
+product → catalog → product → service,1
+home → catalog → product → catalog → product → catalog → product → home → …,1
+home → product → home → catalog → product → other → product → catalog,1
+catalog → product → service → catalog,1
+catalog → service → other → home,1
+catalog → product → catalog → product → catalog → home,1
+catalog → product → instagram → catalog,1
+home → product → home → product → home → catalog → product → shopify_external,1
+home → catalog → service → catalog → home → product,1
+catalog → product → catalog → product → catalog → product → service → catalog → …,1
+one_click → service → one_click → shopify_external → service → home,1
+product → one_click → product → catalog → product → catalog → product → catalog → …,1
+home → product → catalog → product → catalog → home,1
+product → other → product → catalog → other → catalog → product → catalog → …,1
+home → product → catalog → service → catalog → other → service → catalog → …,1
+catalog → product → catalog → shopify_external,1
+catalog → product → catalog → product → service → catalog → product → catalog → …,1
+catalog → product → home → catalog → service → whatsapp,1
+home → other → home,1
+product → home → product → home → catalog → instagram,1
+catalog → service → whatsapp,1
+home → catalog → product → other,1
+service → other → catalog → home,1
+catalog → product → catalog → product → whatsapp,1
+home → catalog → product → catalog → product → catalog → product → other → …,1
+home → product → catalog → home → catalog,1
+catalog → home → instagram → catalog → home → catalog → product → catalog → …,1
+catalog → one_click → home → catalog → product → home → product,1
+catalog → one_click → catalog → product → catalog → product,1
+catalog → product → catalog → product → instagram → catalog,1
+one_click → catalog,1
+catalog → one_click → product → one_click → catalog → one_click → whatsapp,1
+catalog → product → instagram → catalog → product → catalog → product → catalog → …,1
+catalog → one_click → cart,1
+catalog → product → catalog → product → catalog → product → other,1
+product → catalog → product → catalog → product → catalog → product,1
+product → other → home,1
+cart → shopify_external → cart,1
+catalog → product → catalog → product → other,1
+catalog → whatsapp → catalog,1
+catalog → home → catalog → home → catalog,1
+catalog → home → instagram,1
+cart → home,1
+catalog → one_click → catalog → product → catalog,1
+catalog → whatsapp → catalog → product → catalog,1
+catalog → product → shopify_external → home → instagram → product,1
+catalog → product → home → catalog → product → catalog,1
+home → catalog → product → service → other,1
+home → one_click → catalog → product → service → catalog → product → catalog → …,1
+catalog → product → catalog → whatsapp,1
+catalog → product → 404,1
+home → shopify_external,1
+catalog → home → catalog → service → catalog → service → catalog,1
+home → instagram → home → service → home → service → home → catalog → …,1
+catalog → product → cart → service → thank_you → one_click → cart → catalog → …,1
+home → catalog → home → catalog → product → catalog → product → catalog → …,1
+catalog → product → service → catalog → product → catalog → product → catalog → …,1
+home → catalog → product → home → catalog → product → catalog → product → …,1
+catalog → cart → catalog → product → catalog,1
+home → catalog → product → home → service,1
+product → catalog → service,1
+catalog → product → catalog → whatsapp → service,1
+home → instagram → catalog → product → instagram,1
+home → instagram → catalog → product → home,1
+home → service → instagram,1
+product → one_click → service → catalog → product,1
+catalog → product → catalog → product → service → thank_you → instagram,1
+catalog → one_click → catalog → one_click,1
+cart → home → catalog → product → one_click → product,1
+home → product → home → catalog → whatsapp → catalog → product → catalog → …,1
+product → home → product → service → other → service → home → shopify_external → …,1
+home → catalog → service → catalog,1
+home → one_click → product,1
+home → catalog → product → instagram → catalog → product,1
+catalog → home → instagram → home,1
+product → home → product → catalog → product,1
+product → catalog → home,1
+catalog → product → other → catalog → product → catalog → shopify_external → catalog → …,1
+catalog → product → home → product → home → catalog → product,1
+catalog → other → whatsapp → catalog → one_click → instagram → catalog → product → …,1
+catalog → one_click → home,1
+catalog → product → catalog → product → catalog → product → catalog → instagram → …,1
+catalog → product → catalog → cart → catalog → product,1
+catalog → cart → instagram → catalog → instagram → catalog → home → catalog → …,1
+product → catalog → one_click → product,1
+404 → product,1
+catalog → product → cart → product → catalog,1
+product → catalog → one_click → catalog → product → catalog → product → catalog → …,1
+cart → catalog → product → catalog,1
+product → catalog → cart → catalog,1
+catalog → shopify_external → catalog → product,1
+product → catalog → product → home → product,1
+catalog → product → home → cart,1
+catalog → home → instagram → home → product → home → product → home → …,1
+catalog → product → cart,1
+catalog → other → home → instagram,1
+catalog → product → home → product → home → catalog,1
+home → catalog → product → catalog → home → product,1
+other → catalog → product,1
+product → service → catalog → product → catalog → product,1
+catalog → other → home → other,1
+product → catalog → product → catalog → product → whatsapp,1
+catalog → cart → other → catalog → product,1
+product → catalog → product → catalog → product → catalog,1
+home → catalog → product → home → catalog → home → catalog → product → …,1
+home → shopify_external → home,1
+catalog → shopify_external → product → catalog,1
+catalog → product → home → product → catalog → product,1
+cart → other,1
+home → catalog → product → other → service → catalog → home,1
+catalog → product → catalog → cart,1
+home → product → service → other → product → home → catalog → service → …,1
+catalog → other → catalog → product → catalog,1
+cart → catalog → other,1
+404 → catalog → home,1
+home → catalog → product → one_click,1
+home → instagram → home → instagram → home → instagram → home → catalog → …,1
+home → product → other → product → instagram,1
+product → other → noon,1
+home → service → catalog → other,1
+home → catalog → product → home → catalog → product → home,1
+home → catalog → product → catalog → product → catalog → product → one_click → …,1
+home → catalog → product → home → product → noon,1
+home → catalog → product → home → catalog → product → catalog,1
+service → thank_you → other → whatsapp → other → instagram → whatsapp,1
+home → service → home → catalog → product → catalog,1
+home → catalog → home → catalog → instagram,1
+home → service → catalog → product → catalog → home → service → home,1
+catalog → service → other,1
+service → catalog → product → catalog → product → catalog → product → catalog → …,1
+home → catalog → home → instagram,1
+cart → catalog → product,1
+home → service → thank_you → home → catalog → one_click → thank_you → home,1
+service → other → catalog → other → catalog → one_click → other → thank_you → …,1
+service → home → catalog → one_click → thank_you → service → thank_you → home → …,1
+product → home → catalog → product → catalog,1
+home → catalog → home → catalog → home → service → other → catalog → …,1
+product → catalog → product → catalog → product → service → catalog → product → …,1
+product → catalog → product → service → catalog → product,1
+catalog → product → catalog → home → catalog,1
+catalog → one_click → cart → catalog → home → catalog → product → catalog,1
+catalog → instagram → catalog → product,1
+catalog → product → cart → catalog,1
+catalog → one_click → product,1
+catalog → one_click → shopify_external,1
+product → cart,1
+catalog → one_click → catalog → other → catalog,1
+home → catalog → product → catalog → home → instagram → catalog → product,1
+home → product → other → catalog,1
+home → instagram → product → catalog → product → home,1
+catalog → product → service → home → catalog → product → catalog → home,1
+home → whatsapp → service → other → whatsapp,1
+product → catalog → home → catalog → product,1
+catalog → service → catalog → product,1
+home → instagram → home → instagram → product,1
+home → product → add_to_cart → product,1
+home → other → catalog → product,1
+home → catalog → home → catalog → product → catalog → product → catalog,1
+home → instagram → home → other,1
+catalog → product → catalog → home → catalog → home → catalog → product,1
+product → home → catalog → product → add_to_cart,1
+catalog → product → other → product → noon → product,1
+home → catalog → home → instagram → home → catalog → product,1
+home → product → home → product → home → catalog → home,1
+home → instagram → whatsapp,1
+home → service → catalog → product → home,1
+home → other → catalog → home,1
+other → home,1
+home → instagram → product → catalog → product,1
+home → service → catalog → service → catalog,1
+catalog → product → add_to_cart → catalog → product → add_to_cart,1
+home → catalog → one_click → home,1
+home → product → home → catalog → service → catalog → product → home → …,1
+product → home → product → home → catalog → home → catalog → service → …,1
+home → product → home → product → home → catalog,1
+catalog → product → service → other → catalog → product,1
+home → catalog → home → catalog → home → catalog → home → product,1
+product → home → instagram → service,1
+home → catalog → product → catalog → product → catalog → product,1
+home → catalog → product → catalog → home → catalog,1
+home → catalog → product → catalog → service → home,1
+product → catalog → product → home → product → home → product → home → …,1
+home → catalog → one_click → product,1
+home → catalog → home → service → catalog → home,1
+home → service → other → catalog → product,1
+home → product → catalog → product → home → instagram,1
+home → 404 → product,1
+catalog → product → catalog → product → service,1
+product → catalog → product → home → catalog → product → catalog → product → …,1
+home → catalog → home → catalog → home → product → catalog → product,1
+home → product → service → other,1
+home → product → catalog → product → catalog → other → service,1
+home → product → home → product → home → catalog → other → catalog,1
+home → instagram → home → catalog → product,1
+catalog → product → service → other → catalog,1
+catalog → product → add_to_cart → product → catalog,1
+home → thank_you → home,1
+catalog → cart → service → cart → catalog,1
+home → catalog → add_to_cart → product → home → product → home → 404 → …,1
+catalog → product → add_to_cart,1
+home → other → product → catalog,1
+home → product → service → product → whatsapp → product,1
+catalog → product → catalog → product → add_to_cart → one_click → thank_you → home → …,1
+one_click → instagram → one_click → instagram → one_click → instagram → one_click → whatsapp → …,1
+home → catalog → add_to_cart → one_click → thank_you → catalog → home → catalog → …,1
+home → catalog → home → catalog → service → catalog → product → home,1
+home → product → instagram → product,1
+home → cart → home,1
+product → home → add_to_cart → product,1
+catalog → add_to_cart → catalog,1
+catalog → home → service,1
